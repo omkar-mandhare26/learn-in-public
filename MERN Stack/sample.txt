@@ -1,0 +1,1 @@
+Sample text to create a txt fileThis is text to append in file ./sample.txt
