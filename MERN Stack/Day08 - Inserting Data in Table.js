@@ -1,5 +1,7 @@
-const prompt = require("prompt-sync")();
-const mysql = require("mysql");
+import mysql from "mysql";
+import promptSync from 'prompt-sync';
+const prompt = promptSync();
+
 
 let conn = mysql.createConnection({
     host: "localhost",
