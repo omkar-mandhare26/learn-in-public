@@ -1,0 +1,27 @@
+[
+  {
+    "rno": 1,
+    "sname": "Omkar",
+    "percentage": 97.74
+  },
+  {
+    "rno": 2,
+    "sname": "Aarush",
+    "percentage": 90.45
+  },
+  {
+    "rno": 3,
+    "sname": "Om",
+    "percentage": 89.87
+  },
+  {
+    "rno": 4,
+    "sname": "Aaru",
+    "percentage": 80.8
+  },
+  {
+    "rno": 5,
+    "sname": "Martin",
+    "percentage": 99.99
+  }
+]

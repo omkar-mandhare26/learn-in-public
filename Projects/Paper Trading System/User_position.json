@@ -1,6 +1,13 @@
-{
-    "securityID": "VMART",
-    "currentValue": "1913.35",
-    "updatedOn": "07 Mar 24 | 04:00 PM",
-    "scripCode": "534976"
-}
+[
+    {
+        "Name": "INFY",
+        "PnL": 0,
+        "Quantity": 50,
+        "Entry": 1617.25,
+        "LTP": 1617.25,
+        "Updated_On": "12 Mar 24 | 02:01 PM",
+        "Entry_Date": "2024-03-12",
+        "status": "OPEN",
+        "Code": "500209"
+    }
+]
