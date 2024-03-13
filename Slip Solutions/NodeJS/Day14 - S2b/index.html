@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Registration</title>
+</head>
+
+<body>
+    <h1>Employee Registration</h1>
+    <form method="get" id="registrationForm">
+        <label>Enter Date of Birth:</label>
+        <input type="date" id="dob" name="dob" required><br><br>
+
+        <label>Enter Joining Date:</label>
+        <input type="date" id="joiningDate" name="joiningDate" required><br><br>
+
+        <label>Enter Salary:</label>
+        <input type="number" id="salary" name="salary" required><br><br>
+
+        <button type="submit" onclick="validate()">Register</button>
+    </form>
+
+    <div class="dob"></div>
+
+    <script src="validate.js"></script>
+
+</body>
+
+</html>
