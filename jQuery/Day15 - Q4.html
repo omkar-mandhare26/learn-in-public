@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll</title>
+    <script src="jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+    <button id="end">Go to Bottom of the Page</button>
+    <div class="text" style="height: 2000px;"></div>
+    <button id="top">Go to Top of the Page</button>
+    <script>
+        $(document).ready(() => {
+            $("#top").click(() => {
+                $("html, body").animate({ scrollTop: 0 }, "slow");
+            });
+
+            $("#end").click(() => {
+                $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+            });
+        });
+    </script>
+</body>
+
+</html>
