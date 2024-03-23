@@ -1,0 +1,50 @@
+{
+    "FY": {
+        "SEM1": {
+            "101": "BC",
+            "102": "POM",
+            "103": "C LANG",
+            "104": "DBMS",
+            "105": "Statistics"
+        },
+        "SEM2": {
+            "201": "OB",
+            "202": "FA",
+            "203": "BM",
+            "204": "RDBMS",
+            "205": "Web Dev"
+        }
+    },
+    "SY": {
+        "SEM3": {
+            "301": "DM",
+            "302": "DSA",
+            "303": "SE",
+            "304": "PHP",
+            "305": "Big Data"
+        },
+        "SEM4": {
+            "401": "Networking",
+            "402": "OOPS",
+            "403": "OS",
+            "404": "NodeJS",
+            "405": "Project"
+        }
+    },
+    "TY": {
+        "SEM5": {
+            "501": "Cyber Security",
+            "502": "OOSE",
+            "503": "Core Java",
+            "504": "MongoDB",
+            "505": "Python"
+        },
+        "SEM6": {
+            "601": "IT",
+            "602": "Software Testing",
+            "603": "Adv Java",
+            "604": "Android Programming",
+            "605": ".Net"
+        }
+    }
+}
